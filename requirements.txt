@@ -1,0 +1,8 @@
+redis
+pandas
+numpy
+sentence-transformers
+langchain==0.0.123
+python-dotenv
+python-docx
+streamlit
